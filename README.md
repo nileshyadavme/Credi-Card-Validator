@@ -15,10 +15,9 @@ The Luhn algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a s
 Provides clear output of whether the credit card number is valid or not
 
 ## ⛩️ How to use
-🔸 Clone the repository or download the source code
-🔸 Compile the program using your preferred C++
-    compiler.
+🔸 Clone the repository or download the source code.</br>
+🔸 Compile the program using your preferred C++ compiler.
 </br>
-🔸Run the program
+🔸Run the program</br>
 🔸Enter a credit card number to validate or provide the path to a CSV file containing credit card numbers The program will output whether each credit card number is valid or not.
 
