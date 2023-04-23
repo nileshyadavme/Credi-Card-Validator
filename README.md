@@ -20,5 +20,5 @@ Provides clear output of whether the credit card number is valid or not
 </br>
 🔸Run the program</br>
 🔸Enter a credit card number to validate or provide the path to a CSV file containing credit card numbers The program will output whether each credit card number is 
-   valid or not.
+&ensp;valid or not.
 
